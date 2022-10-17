@@ -75,10 +75,6 @@
   top: 64px;
   z-index: 0;
 }
-.header__square-pic {
-  height: 568px;
-  width: 568px;
-}
 .description{
   display: flex;
   justify-content: center;
